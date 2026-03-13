@@ -1,0 +1,23 @@
+__pycache__/
+.ipynb_checkpoints/
+env/
+.venv/
+venv/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.egg-info/
+dist/
+build/
+data/
+results/
+.vscode/
+*.sqlite
+*.db
+*.log
+credentials.json
+/.pytest_cache/
+# Notebook checkpoints
+.ipynb_checkpoints
